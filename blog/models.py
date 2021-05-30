@@ -14,4 +14,5 @@ class Post(models.Model):
         self.save()
 
     #create a string representation
-    
+    def __str__(self):
+        return self.title
