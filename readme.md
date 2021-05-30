@@ -2,5 +2,5 @@
 
 # Creating a virtual enviorment windows:
 
-1. type in python -m venv venv.
-2. 
+ * type in python -m venv venv.
+ 
